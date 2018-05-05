@@ -26,5 +26,4 @@ end
 
 def pizza_party(param="cheese")
   return param
-
 end
